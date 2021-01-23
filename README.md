@@ -1,5 +1,5 @@
-# TodoList
-djangoの練習です．
+# ToDoList
+djangoを用いて作成
 <br/>
 <br/>
 <div align="center">
